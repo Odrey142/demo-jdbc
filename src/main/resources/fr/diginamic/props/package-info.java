@@ -1,2 +1,0 @@
-package fr.diginamic.props;
-
